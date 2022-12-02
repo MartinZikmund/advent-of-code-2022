@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Day02_1": {
+      "commandName": "Project",
+      "commandLineArgs": "< input.txt > output.txt"
+    }
+  }
+}
